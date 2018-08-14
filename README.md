@@ -25,3 +25,8 @@ TODO: describe the typical workflow.
 ## Logo
 
 Is designed using [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro) font.
+
+
+## Color
+
+Menu background: `0x2c3e50ff`
