@@ -76,7 +76,7 @@ bootswatchtheme = "flatly"
 # menu for changing language. This changes languages with js and stores the choice with the help of JavaScript in a Cookie. Then the path is rewritten with pathnamereplace.js. The name of the md files needs to have the same name for each language abbreviation to work correctly. Example: showcase.en.md and showcase.sv.md. It only works if DefaultContentLanguageInSubdir = true
 switchlang = false
 # You can use markdown here.
-BrandImage = "cropped-gi-banner.png" #top header brand image.
+# BrandImage = "cropped-gi-banner.png" #top header brand image.
 brand = "Genome Informatics" # brand image alt text.
 topline = "few words about your site"
 footline = "<img src=cropped-gi-banner.png style='margin-top: 1em' alt='Logos'/> foobar"
@@ -132,10 +132,10 @@ extensionmask = []
 languageCode = "en"
 weight = 1
 copyright = "(c) 2018 Copyright Genome Informatics University of Duisburg Essen"
-title = "Genome Informatcis" # Site title
+title = "Genome Informatics" # Site title
 
 [[Languages.en.menu.main]]
-name = "Blog"
+name = "News"
 pre = ""
 weight = 2
 identifier = "post"
@@ -149,10 +149,22 @@ url = "https://appernetic.io/app/#/about"
 pre = "<i class='fa fa-road'></i>"
 
 [[Languages.en.menu.main]]
-name = "Dashboard"
+name = "Research"
 identifier = ""
 weight = 3
-url = "https://appernetic.io/app/"
+url = "/research/"
+
+[[Languages.en.menu.main]]
+name = "People"
+identifier = ""
+weight = 3
+url = "/people/"
+
+[[Languages.en.menu.main]]
+name = "Lehre"
+identifier = ""
+weight = 3
+url = "/lehre/"
 
 [[Languages.en.menu.footer]] # add  links to the bottom right corner.
 name = "Disclaimer"
