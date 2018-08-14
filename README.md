@@ -15,3 +15,8 @@ Then type
 hugo server --watch
 ```
 and open http://localhost:1313 .
+
+
+## Update the Website
+
+TODO: describe the typical workflow.
