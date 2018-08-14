@@ -1,2 +1,17 @@
-# rahmannlab.github.io
-Website of Rahmannlab
+# Hugo Sources
+
+This repository contains the markdown files of https://rahmannlab.github.io .
+The hugo theme is a [fork](https://github.com/rahmannlab/hugo-bootstrap-premium)
+of [`hugo-bootstrap-premium`](https://github.com/appernetic/hugo-bootstrap-premium).
+Make sure that the git submodule is initialized:
+```bash
+git submodule update --init themes
+```
+
+To render the content, install a current version of hugo (>= 0.44) by downloading the binary from the
+[release page](https://github.com/gohugoio/hugo/releases).
+Then type
+```bash
+hugo server --watch
+```
+and open http://localhost:1313 .
