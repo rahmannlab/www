@@ -1,0 +1,8 @@
+sudo: false
+
+branches:
+  only:
+    - master
+
+script:
+  - hugo
