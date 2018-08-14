@@ -17,12 +17,5 @@ script:
   - hugo
 
 deploy:
-  provider: pages
-  localdir: public
-  branch: master
-  verbose: true
-  skip-cleanup: false
-  github-token: $GITHUB_TOKEN
-  keep-history: false
-  on:
-    branch: master
+  provider: script
+  script: bash .ci/puslish.sh
