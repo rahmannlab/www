@@ -18,4 +18,4 @@ script:
 
 deploy:
   provider: script
-  script: bash .ci/puslish.sh
+  script: bash .ci/publish.sh
