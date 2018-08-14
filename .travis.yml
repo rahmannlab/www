@@ -15,3 +15,11 @@ install:
 script:
   - git submodule update --init themes
   - hugo
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  keep-history: false
+  on:
+    branch: master
