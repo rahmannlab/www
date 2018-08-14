@@ -1,5 +1,5 @@
 # hostname (and path) to the root eg. https://appernetic.github.io/
-baseurl = "https://rahmannlab.github.io/"My blog
+baseurl = "https://rahmannlab.github.io/"
 
 # Remark if you want to disable multilingual support.
 DefaultContentLanguage = "en"
@@ -79,7 +79,7 @@ switchlang = false
 BrandImage = "cropped-gi-banner.png" #top header brand image.
 brand = "Genome Informatics" # brand image alt text.
 topline = "few words about your site"
-footline = "code with <i class='fa fa-heart'></i>"
+footline = "<img src=cropped-gi-banner.png style='margin-top: 1em' alt='Logos'/> foobar"
 
 customJS = []
 customCSS = ["/css/style_custom.css"]
