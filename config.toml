@@ -67,6 +67,7 @@ name = "Genome Informatics University of Duisburg Essen"
 # optin = true #opt-in: true/false
 
 [params]
+sumomeid = "" # Sumome id (bootstraptheme checks if this is empty)
 # bootswatch theme name, unmark and select one: cerulean, cosmo, cyborg, darkly,
 # default, flatly, journal,  lumen, paper, readable, sandstone, simplex,
 # slate, spacelab, superhero, united, yeti.
@@ -153,6 +154,12 @@ name = "Research"
 identifier = ""
 weight = 3
 url = "/research/"
+
+[[Languages.en.menu.main]]
+name = "People"
+identifier = ""
+weight = 3
+url = "/people/"
 
 [[Languages.en.menu.main]]
 name = "Lehre"
