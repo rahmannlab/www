@@ -13,4 +13,5 @@ install:
   - hugo version
 
 script:
+  - git submodule update --init themes
   - hugo
