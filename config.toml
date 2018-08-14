@@ -155,12 +155,6 @@ weight = 3
 url = "/research/"
 
 [[Languages.en.menu.main]]
-name = "People"
-identifier = ""
-weight = 3
-url = "/people/"
-
-[[Languages.en.menu.main]]
 name = "Lehre"
 identifier = ""
 weight = 3
