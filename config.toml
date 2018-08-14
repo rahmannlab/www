@@ -146,7 +146,7 @@ url = "/post/"
 name = "About"
 weight = 1
 identifier = ""
-url = "https://appernetic.io/app/#/about"
+url = "https://rahmannlab.github.io"
 pre = "<i class='fa fa-road'></i>"
 
 [[Languages.en.menu.main]]
