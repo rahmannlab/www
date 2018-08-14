@@ -13,7 +13,7 @@ type = "page"
 +++
 
 # People
-<!-- {{< figure src="/img/people/place_holder.png" link="" caption="" >}} -->
+
 
 
 ## Chair
