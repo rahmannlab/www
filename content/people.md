@@ -7,6 +7,7 @@ type = "page"
 [menu.main]
 name = "People"
 weight = 5
+pre = "<i class='fa fa-users'></i>"
 identifier = "people"
 +++
 
