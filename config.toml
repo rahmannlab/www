@@ -153,17 +153,17 @@ identifier = "post"
 url = "/post/"
 
 [[Languages.en.menu.main]]
-name = "Research"
-identifier = ""
-weight = 3
-url = "/research/"
-
-[[Languages.en.menu.main]]
 name = "Lehre"
 identifier = ""
 weight = 3
 url = "/lehre/"
 pre = "<i class='fa fa-graduation-cap'></i>"
+
+[[Languages.en.menu.main]]
+name = "Research"
+identifier = ""
+weight = 4
+url = "/research/"
 
 
 # [[Languages.en.menu.footer]] # add  links to the bottom right corner.
