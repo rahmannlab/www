@@ -11,7 +11,7 @@ branches:
 # the public part of the key has been added as deploy key in
 # https://github.com/rahmannlab/rahmannlab.github.io/settings/keys
 before_install:
-  - openssl aes-256-cbc -K $encrypted_dba755bd9789_key -iv $encrypted_dba755bd9789_iv -in .ci/travis_key.enc -out .ci/travis_key -d
+  - openssl aes-256-cbc -K $encrypted_28b993472bc7_key -iv $encrypted_28b993472bc7_iv -in .ci/travis_key.enc -out .ci/travis_key -d
   - chmod 600 .ci/travis_key
   - eval $(ssh-agent -s)
   - ssh-add .ci/travis_key
