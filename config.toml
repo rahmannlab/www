@@ -139,18 +139,18 @@ copyright = "(c) 2018 Copyright Genome Informatics University of Duisburg Essen"
 title = "Genome Informatics" # Site title
 
 [[Languages.en.menu.main]]
+name = "Home"
+weight = 1
+identifier = ""
+url = "/"
+pre = "<i class='fa fa-circle'></i>"
+
+[[Languages.en.menu.main]]
 name = "News"
 pre = ""
 weight = 2
 identifier = "post"
 url = "/post/"
-
-[[Languages.en.menu.main]]
-name = "About"
-weight = 1
-identifier = ""
-url = "/"
-pre = "<i class='fa fa-road'></i>"
 
 [[Languages.en.menu.main]]
 name = "Research"
@@ -163,6 +163,8 @@ name = "Lehre"
 identifier = ""
 weight = 3
 url = "/lehre/"
+pre = "<i class='fa fa-graduation-cap'></i>"
+
 
 # [[Languages.en.menu.footer]] # add  links to the bottom right corner.
 # name = "Disclaimer"
