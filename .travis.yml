@@ -30,7 +30,9 @@ script:
 after_success:
   - git config --global user.email "travis@travis-ci.org"
   - git config --global user.name "Travis CI"
-  - cd public && git add .
+  - cd public && git checkout master
+  - git status
+  - git add .
   - git commit -m 'update content via Travis'
   - git push -f
 # - cd ..
