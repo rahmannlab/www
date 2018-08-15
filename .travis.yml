@@ -18,6 +18,7 @@ before_install:
   - echo $PWD
   - git submodule update --init themes
   - git submodule update --init public
+  - $(cd public && git checkout master)
 
 install:
   - .ci/download-hugo.sh
@@ -30,7 +31,7 @@ script:
 after_success:
   - git config --global user.email "travis@travis-ci.org"
   - git config --global user.name "Travis CI"
-  - cd public && git checkout master
+  - cd public
   - git status
   - git add .
   - git commit -m 'update content via Travis'
