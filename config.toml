@@ -147,7 +147,6 @@ pre = "<i class='fa fa-circle'></i>"
 
 [[Languages.en.menu.main]]
 name = "News"
-pre = ""
 weight = 2
 identifier = "post"
 url = "/post/"
@@ -164,6 +163,8 @@ name = "Research"
 identifier = ""
 weight = 4
 url = "/research/"
+
+# "People" menu item is described in content/people.md
 
 
 # [[Languages.en.menu.footer]] # add  links to the bottom right corner.
