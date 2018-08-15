@@ -18,7 +18,7 @@ before_install:
   - echo $PWD
   - git submodule update --init themes
   - git submodule update --init public
-  - $(cd public && git checkout master)
+  - (cd public && git checkout master)
 
 install:
   - .ci/download-hugo.sh
