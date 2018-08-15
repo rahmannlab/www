@@ -39,3 +39,7 @@ after_success:
 # - cd ..
 # - git commit public -m 'updated content'
 # - git push -f
+
+notifications:
+  email:
+    on_failure: change
