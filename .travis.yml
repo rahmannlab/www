@@ -7,15 +7,29 @@ branches:
   only:
     - master
 
+# decrypt ssh key (the encrypted_... variables have been set in Travis)
+# the public part of the key has been added as deploy key in
+# https://github.com/rahmannlab/rahmannlab.github.io/settings/keys
+before_install:
+  - openssl aes-256-cbc -K $encrypted_dba755bd9789_key -iv $encrypted_dba755bd9789_iv -in .ci/travis_key.enc -out .ci/travis_key -d
+  - chmod 600 .ci/travis_key
+  - eval $(ssh-agent -s)
+  - ssh-add .ci/travis_key
+  - echo $PWD
+  - git submodule update --init themes
+  - git submodule update --init public
+
 install:
   - .ci/download-hugo.sh
   - export PATH=$PATH:$PWD/.ci
   - hugo version
 
 script:
-  - git submodule update --init themes
   - hugo
 
-deploy:
-  provider: script
-  script: bash .ci/publish.sh
+after_success:
+  - git config --global user.email "travis@travis-ci.org"
+  - git config --global user.name "Travis CI"
+  - cd public && git commit --amend -a && git push -f && cd ..
+  # - git commit public -m 'updated content'
+  # - git push -f
