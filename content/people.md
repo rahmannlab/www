@@ -55,6 +55,12 @@ The group has offices in both Essen and Dortmund.
 
 ## Administrative Staff
 
+{{< gallery caption-effect="none" >}}
+{{< figure src="/img/people/place_holder.png" link="" caption="Gundel Jankord, Team assistant OH14, R.239 Dortmund -7701" >}}
+{{< figure src="/img/people/place_holder.png" link="" caption="Claudia Wolf, Team assistant V183, R.108 Essen -4047" >}}
+{{< /gallery >}}
+
 ## Students
 
 ## Alumni
+
