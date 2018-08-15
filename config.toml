@@ -149,7 +149,7 @@ url = "/post/"
 name = "About"
 weight = 1
 identifier = ""
-url = "https://rahmannlab.github.io"
+url = "/"
 pre = "<i class='fa fa-road'></i>"
 
 [[Languages.en.menu.main]]
