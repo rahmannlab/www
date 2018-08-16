@@ -30,3 +30,8 @@ Is designed using [Source Sans Pro](https://fonts.google.com/specimen/Source+San
 ## Color
 
 Menu background: `0x2c3e50ff`
+
+
+## Hugo Tutorials
+
+- [Directory Structure](https://www.jakewiesler.com/blog/hugo-directory-structure/)
