@@ -1,7 +1,7 @@
 {{ partial "head.html" . }}
 <div class="container">
   {{ .Content }}
-  {{ if .Site.Params.showBlogHeader }}
+  {{ if .Site.Params.showBlogHeader -}}
   <div class="row">
     <header>
       {{ partial "bloc/content/h1-title.html" . }}
@@ -11,10 +11,10 @@
   {{ end }}
   <div class="row">
     <div class="col-sm-{{ if .Site.Params.showRightSidebar }}9{{ else }}12{{ end }}">
-      {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
-      {{ range $paginator.Pages }}
+      {{ $paginator := .Paginate (where .Data.Pages "Type" "post") -}}
+      {{ range $paginator.Pages -}}
       {{ .Render "summary" }}
-      {{ end }}
+      {{- end }}
       {{ partial "bloc/content/pagination.html" . }}
     </div>
     {{ if .Site.Params.showRightSidebar }}
