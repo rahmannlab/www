@@ -39,23 +39,23 @@ The group has offices in both Essen and Dortmund.
 {{< figure src="/img/people/christopher_schroeder.jpg" link="../group/christopher-schroeder/" caption="Christopher Schröder V183, R1.13, Essen -1908" >}}
 {{< figure src="/img/people/henning_timm.png" link="../group/henning-timm" caption="Henning Timm V183, R1.09, Essen -4046" >}}
 {{< figure src="/img/people/felix_moelder.jpg" link="../group/felix-moelder" caption="Felix Mölder V183, R1.08a, Essen -4045" >}}
-{{< figure src="/img/people/bianca_stoecker.jpg" link="" caption="Bianca Stöcker V183, R1.09, Essen -4046" >}}
-{{< figure src="/img/people/place_holder.png" link="" caption="Elias Kuthe OH14, R.215, Dortmund -????" >}}
+{{< figure src="/img/people/bianca_stoecker.jpg" link="../group/bianca-stoecker/" caption="Bianca Stöcker V183, R1.09, Essen -4046" >}}
+{{< figure src="/img/people/place_holder.png" link="../group/elias-kuthe/" caption="Elias Kuthe OH14, R.215, Dortmund -????" >}}
 {{< figure src="/img/people/place_holder.png" link="" caption="Jan Forster V183, R1.08a, Essen -4045" >}}
-{{< figure src="/img/people/place_holder.png" link="" caption="Till Hartmann, R1.09, Essen -4046" >}}
+{{< figure src="/img/people/place_holder.png" link="../group/" caption="Till Hartmann, R1.09, Essen -4046" >}}
 {{< /gallery >}}
 
 ## Student Assistants
 
 {{< gallery caption-effect="none" >}}
-{{< figure src="/img/people/place_holder.png" link="" caption="Marcel Bargull, Dortmund" >}}
-{{< figure src="/img/people/place_holder.png" link="foo/andre-janowicz" caption="Matthias Höller, Essen" >}}
+{{< figure src="/img/people/place_holder.png" caption="Marcel Bargull, Dortmund" >}}
+{{< figure src="/img/people/place_holder.png" link="" caption="Matthias Höller, Essen" >}}
 {{< /gallery >}}
 
 ## Administrative Staff
 
 {{< gallery caption-effect="none" >}}
-{{< figure src="/img/people/place_holder.png" link="" caption="Gundel Jankord, Team assistant OH14, R.239 Dortmund -7701" >}}
+{{< figure src="/img/people/place_holder.png" link="http://www.cs.tu-dortmund.de/nps/de/Home/Personen/J/Jankord__Gundel.html" caption="Gundel Jankord, Team assistant OH14, R.239 Dortmund -7701" >}}
 {{< figure src="/img/people/place_holder.png" link="" caption="Claudia Wolf, Team assistant V183, R.108 Essen -4047" >}}
 {{< /gallery >}}
 
