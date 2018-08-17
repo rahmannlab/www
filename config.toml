@@ -57,10 +57,11 @@ bootswatchtheme = "flatly"
 
 switchlang = false
 # You can use markdown here.
-BrandImage = "logo.png" #top header brand image.
+BrandImage = "img/logo.png" #top header brand image.
 brand = "Genome Informatics" # brand image alt text.
 topline = "few words about your site"
-footline = { img = "cropped-gi-banner.png", alt = "Logos" }
+footline = { img = "img/cropped-gi-banner.png", alt = "Logos" }
+
 
 
 customJS = []
