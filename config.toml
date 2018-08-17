@@ -60,7 +60,8 @@ switchlang = false
 BrandImage = "logo.png" #top header brand image.
 brand = "Genome Informatics" # brand image alt text.
 topline = "few words about your site"
-footline = "<img src=cropped-gi-banner.png style='height: 80%' alt='Logos'/>"
+footline = { img = "cropped-gi-banner.png", alt = "Logos" }
+
 
 customJS = []
 customCSS = ["/css/style_custom.css"]
