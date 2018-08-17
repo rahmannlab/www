@@ -34,9 +34,9 @@ The group has offices in both Essen and Dortmund.
 
 {{< gallery caption-effect="none" >}}
 {{< figure src="/img/people/place_holder.png" link="" caption="Dr. Johannes Köster V183, R1.13, Essen -1908" >}}
-{{< figure src="/img/people/place_holder.png" link="" caption="Dr. Daniela Beisser V183, R1.08a, Essen -4045" >}}
-{{< figure src="/img/people/marianna_daddario.jpg" link="" caption="Marianna D'Addario OH14, R.215, Dortmund" >}}
-{{< figure src="/img/people/christopher_schroeder.jpg" link="christopher_schroeder" caption="Christopher Schröder V183, R1.13, Essen -1908" >}}
+{{< figure src="/img/people/daniela_beisser.jpg" link="daniela-beisser/" caption="Dr. Daniela Beisser V183, R1.08a, Essen -4045" >}}
+{{< figure src="/img/people/marianna_daddario.jpg" link="marianna-daddario/" caption="Marianna D'Addario OH14, R.215, Dortmund" >}}
+{{< figure src="/img/people/christopher_schroeder.jpg" link="christopher-schroeder/" caption="Christopher Schröder V183, R1.13, Essen -1908" >}}
 {{< figure src="/img/people/henning_timm.png" link="henning_timm" caption="Henning Timm V183, R1.09, Essen -4046" >}}
 {{< figure src="/img/people/felix_moelder.jpg" link="" caption="Felix Mölder V183, R1.08a, Essen -4045" >}}
 {{< figure src="/img/people/bianca_stoecker.jpg" link="" caption="Bianca Stöcker V183, R1.09, Essen -4046" >}}
