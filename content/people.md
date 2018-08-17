@@ -27,18 +27,18 @@ The group has offices in both Essen and Dortmund.
 ## Chair
 
 {{< gallery caption-effect="none" >}}
-{{< figure src="/img/people/sven_rahmann.jpg" link="sven_rahmann" caption="Sven Rahmann V183, R1.10, Essen -4046, Dortmund -7701">}}
+{{< figure src="/img/people/sven_rahmann.jpg" link="../group/sven-rahmann/" caption="Sven Rahmann V183, R1.10, Essen -4046, Dortmund -7701">}}
 {{< /gallery >}}
 
 ## Scientists
 
 {{< gallery caption-effect="none" >}}
 {{< figure src="/img/people/place_holder.png" link="https://johanneskoester.bitbucket.io/" caption="Dr. Johannes Köster V183, R1.13, Essen -1908" >}}
-{{< figure src="/img/people/daniela_beisser.jpg" link="daniela-beisser/" caption="Dr. Daniela Beisser V183, R1.08a, Essen -4045" >}}
-{{< figure src="/img/people/marianna_daddario.jpg" link="marianna-daddario/" caption="Marianna D'Addario OH14, R.215, Dortmund" >}}
-{{< figure src="/img/people/christopher_schroeder.jpg" link="christopher-schroeder/" caption="Christopher Schröder V183, R1.13, Essen -1908" >}}
-{{< figure src="/img/people/henning_timm.png" link="henning_timm" caption="Henning Timm V183, R1.09, Essen -4046" >}}
-{{< figure src="/img/people/felix_moelder.jpg" link="" caption="Felix Mölder V183, R1.08a, Essen -4045" >}}
+{{< figure src="/img/people/daniela_beisser.jpg" link="../group/daniela-beisser/" caption="Dr. Daniela Beisser V183, R1.08a, Essen -4045" >}}
+{{< figure src="/img/people/marianna_daddario.jpg" link="../group/marianna-daddario/" caption="Marianna D'Addario OH14, R.215, Dortmund" >}}
+{{< figure src="/img/people/christopher_schroeder.jpg" link="../group/christopher-schroeder/" caption="Christopher Schröder V183, R1.13, Essen -1908" >}}
+{{< figure src="/img/people/henning_timm.png" link="../group/henning-timm" caption="Henning Timm V183, R1.09, Essen -4046" >}}
+{{< figure src="/img/people/felix_moelder.jpg" link="../group/felix-moelder" caption="Felix Mölder V183, R1.08a, Essen -4045" >}}
 {{< figure src="/img/people/bianca_stoecker.jpg" link="" caption="Bianca Stöcker V183, R1.09, Essen -4046" >}}
 {{< figure src="/img/people/place_holder.png" link="" caption="Elias Kuthe OH14, R.215, Dortmund -????" >}}
 {{< figure src="/img/people/place_holder.png" link="" caption="Jan Forster V183, R1.08a, Essen -4045" >}}
@@ -49,7 +49,7 @@ The group has offices in both Essen and Dortmund.
 
 {{< gallery caption-effect="none" >}}
 {{< figure src="/img/people/place_holder.png" link="" caption="Marcel Bargull, Dortmund" >}}
-{{< figure src="/img/people/place_holder.png" link="" caption="Matthias Höller, Essen" >}}
+{{< figure src="/img/people/place_holder.png" link="foo/andre-janowicz" caption="Matthias Höller, Essen" >}}
 {{< /gallery >}}
 
 ## Administrative Staff
