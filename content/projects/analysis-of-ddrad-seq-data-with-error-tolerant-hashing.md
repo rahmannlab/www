@@ -6,7 +6,6 @@ date: 2016-07-18T16:03:15+00:00
 
 ---
 **Henning Timm, Sven Rahmann,
-  
 in collaboration with [AG Aquatische Ökosystemforschung][1], Essen**
 
 ### What is ddRAD-seq?
@@ -30,7 +29,6 @@ As the analysis of RAD data is highly dependent on the structure enforced by the
 ### Publications
 
   * Poster &#8220;Clustering of ddRAD-seq reads with randomized hash functions for biodiversity analysis&#8221; at _iSEQ Symposium on Methods and Applications of Next Generation Sequencing in Evolutionary Research,_ 2014, hosted by [**Henning Timm, Sven Rahmann,
-  
 in collaboration with [AG Aquatische Ökosystemforschung][1], Essen**
 
 ### What is ddRAD-seq?

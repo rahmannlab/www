@@ -1,11 +1,18 @@
----
-title: Research
-author: Genie
-type: page
-date: 2016-01-06T10:03:13+00:00
++++
+date = "2018-08-14T15:10:00+02:00"
+author = "Felix"
+draft = false
+type = "page"
+[menu]
+[menu.main]
+name = "projects"
+weight = 4
+pre = "<i class='fa fa-users'></i>"
+identifier = "projects"
++++
 
----
-This page lists the current research topics of the group.
+# projects
+This page lists the current projects topics of the group.
   
 See also the [Software][1] page for publicly available Software.
 
@@ -83,7 +90,7 @@ Dominik Kopczynski, Marianna D&#8217;Addario & Sven Rahmann,
   
 in collaboration with Jörg Ingo Baumbach (Reutlingen) and B&S Analytik GmbH
   
-(This was a project in the Collaborative Research Center SFB 876.)
+(This was a project in the Collaborative projects Center SFB 876.)
 
 [**Small RNA and miRNA analysis**][14]
   
@@ -109,22 +116,22 @@ Sven Rahmann, with Cees Elzinga and Hui Wang
   
 Sérgio A. de Carvalho Jr & Sven Rahmann
 
- [1]: /software
- [2]: /research/metatranscriptome-analysis.md
- [3]: /research/protein-hypernetworks
- [4]: /research/analysis-of-ddrad-seq-data-with-error-tolerant-hashing
- [5]: /research/exome-analysis.md
- [6]: /research/whole-genome-methylation-analysis.md
- [7]: /research/library-complexity-and-duplication-rate-estimation.md
- [8]: /research/osteosys.md
- [9]: /research/yeastscent.md
- [10]: /research/dynatrait.md
- [11]: http://genomeinformatics.uni-due.de/2016/07/25/simlord/
- [12]: /research/q-unique-sequences/
- [13]: /research/ion-mobility-spectroscopy-ims-analysis-with-restricted-resources/
- [14]: /research/small-rna-sequencing
- [15]: /research/probabilistic-arithmetic-automata-paas/
- [16]: /research/motif-discovery/
- [17]: /research/analysis-of-pattern-matching-algorithms/
- [18]: /research/subsequence-combinatorics
- [19]: /research/microarray-design-and-layout/
+ [1]: ../software
+ [2]: ../projects/metatranscriptome-analysis/
+ [3]: ../projects/protein-hypernetworks/
+ [4]: ../projects/analysis-of-ddrad-seq-data-with-error-tolerant-hashing/
+ [5]: ../projects/exome-analysis/
+ [6]: ../projects/whole-genome-methylation-analysis/
+ [7]: ../projects/library-complexity-and-duplication-rate-estimation/
+ [8]: ../projects/osteosys/
+ [9]: ../projects/yeastscent/
+ [10]: ../projects/dynatrait/
+ [11]: ../projects//2016/07/25/simlord/
+ [12]: ../projects/q-unique-sequences/
+ [13]: ../projects/ion-mobility-spectroscopy-ims-analysis-with-restricted-resources/
+ [14]: ../projects/small-rna-sequencing/
+ [15]: ../projects/probabilistic-arithmetic-automata-paas/
+ [16]: ../projects/motif-discovery/
+ [17]: ../projects/analysis-of-pattern-matching-algorithms/
+ [18]: ../projects/subsequence-combinatorics/
+ [19]: ../projects/microarray-design-and-layout/
