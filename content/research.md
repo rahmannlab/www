@@ -5,9 +5,9 @@ draft = false
 type = "page"
 [menu]
 [menu.main]
-name = "projects"
+name = "Projects"
 weight = 4
-pre = "<i class='fa fa-users'></i>"
+# pre = "<i class='fa fa-users'></i>"
 identifier = "projects"
 +++
 
