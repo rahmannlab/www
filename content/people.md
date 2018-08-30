@@ -40,7 +40,7 @@ The group has offices in both Essen and Dortmund.
 {{< figure src="/img/people/henning_timm.png" link="../group/henning-timm" caption="Henning Timm V183, R1.09, Essen -4046" >}}
 {{< figure src="/img/people/felix_moelder.jpg" link="../group/felix-moelder" caption="Felix Mölder V183, R1.08a, Essen -4045" >}}
 {{< figure src="/img/people/bianca_stoecker.jpg" link="../group/bianca-stoecker/" caption="Bianca Stöcker V183, R1.09, Essen -4046" >}}
-{{< figure src="/img/people/place_holder.png" link="../group/elias-kuthe/" caption="Elias Kuthe OH14, R.215, Dortmund -????" >}}
+{{< figure src="/img/people/place_holder.png" link="../group/elias-kuthe/" caption="Elias Kuthe OH14, R.215, Dortmund -7742" >}}
 {{< figure src="/img/people/place_holder.png" link="" caption="Jan Forster V183, R1.08a, Essen -4045" >}}
 {{< figure src="/img/people/place_holder.png" link="../group/" caption="Till Hartmann, R1.09, Essen -4046" >}}
 {{< /gallery >}}
