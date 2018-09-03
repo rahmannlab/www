@@ -11,7 +11,7 @@ weight = 4
 identifier = "projects"
 +++
 
-# projects
+# Projects
 This page lists the current projects topics of the group.
   
 See also the [Software][1] page for publicly available Software.
